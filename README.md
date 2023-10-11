@@ -1,6 +1,8 @@
 # Will a Car Driver Accept or Reject the Coupon
 
-This repository contains an analysis of data about bar, restaurant and coffee house coupons sent to car drivers. This dataset is part of the UCI Machine Learning repository and was collected via a survey on Amazon Mechanical Turk. The analysis determines the likelihood of a driver accepting a coupon based upon various parameters such as "driver age", "kind of passenger in the car with the driver", "driver occupation" etc.
+This repository contains an analysis of data about bar, restaurant and coffee house coupons sent to car drivers. This dataset is part of the UCI Machine Learning repository and was collected via a survey on Amazon Mechanical Turk. The analysis determines the likelihood of a driver accepting a coupon based upon various parameters such as "driver age", "kind of passenger in the car with the driver", "driver occupation" etc. 
+
+The code for the analysis can be found here - https://github.com/kudiges01/couponanalysis/blob/main/prompt.ipynb
 
 ## Technologies used for Analysis
 
