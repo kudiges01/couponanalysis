@@ -20,7 +20,7 @@ Analysis and plotting of the data using Seaborn shows the **Coupon Acceptance Pr
 
 ## Bar Coupon Analysis
 
-The analysis shows that to maximize coupon acceptance rates, targeting the coupons to the following audience helps.
+The Jupyter notebook contains a detailed analysis on coupon acceptance/rejection by age, passenger, marital status, weather, income, time and occupation. 21 and 26 year olds show high coupon acceptance rates. Drivers who have a friend with them or are alone in the car also accept coupons more. Coupon acceptance rates are high on sunny days and lower on other days. Single drivers have a high coupon acceptance rate when compared with other marital status. Also, more coupons are accepted at 6PM and 10PM during the day. Coupon acceptance rates are also higher for drivers whose income levels are below 25000. Further analysis shows that to maximize coupon acceptance rates, targeting the coupons to the following audience helps.
 
  - Drivers who are likely to go to a bar more than once a month
  - Drivers who are primarily between the ages of 21 and 31
@@ -32,7 +32,7 @@ The Seaborn plot below shows that the acceptance rates for bar coupons is signif
 
 ## Restaurant(20-50) Coupon Analysis
 
-The analysis shows that to maximize coupon acceptance rates, targeting the coupons to the following audience helps.
+The Jupyter notebook contains a detailed analysis on coupon acceptance/rejection by age, passenger, marital status, weather, income, time and occupation. 26, 26, 41 and 46 year olds have high coupon acceptance rates. Drivers who have a partner or friend with them accept coupons more. Drivers who are single or drivers who have unmarried partners are more likely to accept coupons. On sunny days coupons are more likely to be accepted. Further analysis shows that to maximize coupon acceptance rates, targeting the coupons to the following audience helps.
 
  - Drivers who are likely to go to an expensive restaurant more than once a month
  - Drivers who had passengers in their car
